@@ -1,0 +1,73 @@
+# Kotlin/Java files
+*.class
+*.jar
+*.war
+*.ear
+*.dex
+*.apk
+*.ap_
+*.keystore
+*.jks
+
+# Gradle files
+.gradle/
+build/
+local.properties
+.gradle-cache/
+
+# IDE files
+.idea/
+*.iml
+*.hprof
+
+# Android Studio generated files
+captures/
+.externalNativeBuild/
+.cxx/
+*.so
+*.o
+*.obj
+*.map
+
+# Log and debugging files
+*.log
+*.crash
+*.stacktrace
+
+# Configuration files
+*.properties
+*.xml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Unit test files
+.idea/testResults/
+.idea/runConfigurations/
+
+# Exclude build folders
+*/build/
+
+# Generated code
+generated/
+
+# Firebase files
+google-services.json
+firebase-debug.log
+
+# Jetpack Compose
+debug.keystore
+
+# ProGuard
+proguard-rules.pro
+
+# NDK
+*.ndk
+
+# Miscellaneous
+*.lock
+*.orig
+*.rej
+*.bak
